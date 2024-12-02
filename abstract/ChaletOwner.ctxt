@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ChaletOwner
+comment1.params=cn\ cID\ y\ p
+comment1.target=ChaletOwner(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getchaletName()
+comment3.params=
+comment3.target=java.lang.String\ getchaletID()
+comment4.params=
+comment4.target=int\ getYearOpen()
+comment5.params=
+comment5.target=double\ getProfit()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=double\ calcTax()
+numComments=8

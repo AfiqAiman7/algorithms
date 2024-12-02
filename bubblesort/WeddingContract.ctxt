@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WeddingContract
+comment1.params=
+comment1.target=WeddingContract()
+comment2.params=cID\ n\ d\ v\ b\ nG
+comment2.target=WeddingContract(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getContractID()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getDate()
+comment6.params=
+comment6.target=java.lang.String\ getVenue()
+comment7.params=
+comment7.target=double\ getBudget()
+comment8.params=
+comment8.target=int\ getNumberOfGuest()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

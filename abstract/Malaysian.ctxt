@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Malaysian
+comment1.params=cn\ cID\ y\ p
+comment1.target=Malaysian(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=double\ calcTax()
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Bicycle
+comment1.params=
+comment1.target=Bicycle()
+comment10.params=
+comment10.target=char\ getMaterial()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=b\ t\ p\ m
+comment2.target=Bicycle(java.lang.String,\ java.lang.String,\ double,\ char)
+comment3.params=b
+comment3.target=void\ setBrand(java.lang.String)
+comment4.params=t
+comment4.target=void\ setType(java.lang.String)
+comment5.params=p
+comment5.target=void\ setPrice(double)
+comment6.params=m
+comment6.target=void\ setMaterial(char)
+comment7.params=
+comment7.target=java.lang.String\ getBrand()
+comment8.params=
+comment8.target=java.lang.String\ getType()
+comment9.params=
+comment9.target=double\ getPrice()
+numComments=12

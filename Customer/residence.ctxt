@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=residence
+comment1.params=i\ r\ n\ inc\ s
+comment1.target=residence(int,\ char,\ int,\ double,\ java.lang.String)
+comment2.params=i\ r\ n\ inc\ s
+comment2.target=void\ setResidence(int,\ char,\ int,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=char\ getRace()
+comment5.params=
+comment5.target=int\ getNumChild()
+comment6.params=
+comment6.target=double\ getIncome()
+comment7.params=
+comment7.target=java.lang.String\ getState()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
